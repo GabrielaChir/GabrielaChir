@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello  👋
 
 <!--
 **GabrielaChir/GabrielaChir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Gabriela, an aspiring web developer with a passion for learning, constantly honing my skills through hands-on practice.
+*Eager to leverage technical skills and academic training to contribute to exciting web development projects while gaining practical experience in the field.*
